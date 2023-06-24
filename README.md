@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lua, python.
 - 💞️ I’m looking to collaborate on ethical hacker
 - 📫 How to reach me TKFEENY@GMAIL.COM
-- 📱 Discord: ``@_D7M``
+- 📱 Discord: [@_D7M](https://discordapp.com/users/277215979753439233)
 - 🌐 Discord Server: https://discord.gg/EaqqwZDC2T
 
 <!---
