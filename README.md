@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning lua, python.
 - 💞️ I’m looking to collaborate on ethical hacker
 - 📫 How to reach me TKFEENY@GMAIL.COM
+- 📱 Discord: ``@_D7M``
+- 🌐 Discord Server: https://discord.gg/EaqqwZDC2T
 
 <!---
 iYsood/iYsood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
