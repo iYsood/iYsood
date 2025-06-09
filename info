@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Abdulrahman Alshammari @iYsood  
+- 🧠 Passionate full-stack developer with a strong focus on backend technologies, system architecture, and automation.  
+- 👀 I’m deeply interested in building secure platforms, training systems, control panels, and custom Laravel-based solutions.  
+- 🌱 Currently expanding my skills in ethical hacking, Lua (for game scripting), and Python (for automation and tooling).  
+- 🛡️ I care deeply about system security, access control, and clean, maintainable code.  
+- 💬 I love solving complex problems with simple, modular code - always aiming for efficiency over complexity.  
+- 💞️ Open to collaborating on security-focused tools, Laravel packages, and creative automation scripts.  
+- 📫 Reach me at: TKFEENY@GMAIL.COM  
+- 📱 Discord: [@_D7M](https://discordapp.com/users/277215979753439233)  
